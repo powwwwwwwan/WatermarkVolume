@@ -14,7 +14,7 @@ Because manual adjustment is boring？
 
 Map system memory usage to audio volume and visualize it as a water level.
 
-
+![演示效果](effect display.gif)
 
 Just a fun project exploring system data → visual/audio feedback.\*   \*\*️ Dual Mapping Modes\*\*
 
